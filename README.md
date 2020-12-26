@@ -1,6 +1,9 @@
 # FunCog
 A Cog for discord.py with fun commands!
 
+Commands Included:
+``meme``, ``facepalm``, ``8ball``, ``ko``, ``gunfight``
+
 INSTRUCTIONS
 
 1. Install the file
